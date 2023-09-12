@@ -1,6 +1,6 @@
-*********
-Login Admin
-*********
+Account
+username : admin
+password : password
 
--  `admin@admin.com`_
--  `password`_
+*******************
+this project using php@7.2
